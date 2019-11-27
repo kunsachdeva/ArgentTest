@@ -1,0 +1,7 @@
+module.exports = {
+  CONTRACT_ADDRESS: '0xcbbfbafedb0eb83016d2a96a4e80d30b20fa3e30',
+  EMAIL: 'kunsachdeva@gmail.com',
+  PRIVATE_KEY: '<ENTER-HERE>',
+  ADDRESS: '0x88D855BdF87b93B956154714109d9a5A22A6AD9B',
+  INFURA_KEY: '<ENTER-HERE>'
+};

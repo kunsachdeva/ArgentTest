@@ -1,0 +1,53 @@
+.card {
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
+  padding: 16px;
+}
+
+.card img {
+  margin-top: 24px;
+}
+
+.card input {
+  border: 1px solid #e4e4e4;
+  border-radius: 40px;
+  outline: none;
+  width: calc(100% - 32px);
+  padding: 16px;
+  font-size: 18px;
+}
+
+.card label {
+  margin: 16px;
+  margin-bottom: 0px;
+  display: inline-block;
+  font-size: 14px;
+  color: rgb(50, 50, 50);
+  font-weight: 100;
+  display: block;
+}
+
+.card .value {
+  margin-left: 16px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.card .error {
+  color: red;
+  font-size: 10px;
+  margin-left: 16px;
+}
+
+.card .erc20value {
+  font-size: 10px;
+  display: inline-block;
+  background-color: #e4e4e4;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
